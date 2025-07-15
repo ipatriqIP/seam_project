@@ -1,0 +1,51 @@
+# Fichiers sismiques bruts
+/data/raw/*.sgy
+/data/raw/*.segy
+/data/raw/*.dat
+/data/raw/*.bin
+
+# Fichiers sismiques traités
+/data/processed/*.npy
+/data/processed/*.npz
+/data/processed/*.h5
+/data/processed/*.csv
+/data/processed/*.parquet
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb.v*
+*.ipynb.bak
+
+# Environnements virtuels
+/venv/
+/env/
+__pycache__
+*.pyc
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Éditeurs
+.idea/
+.vscode/
+.atom/
+
+# Modèles ML / Checkpoints
+/models/*.pt
+/models/*.pth
+/models/*.h5
+/models/*.pkl
+
+# Résultats / Rapports générés
+/results/*.pdf
+/results/*.html
+/results/*.png
+/results/*.jpg
+/results/*.vtk
+
+# Documentation générée
+/docs/_build/
+
+# Reporting
+*.pptx
