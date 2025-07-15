@@ -1,0 +1,40 @@
+C 1  Client: SEAM Corp.     Vendor: AGT                     Date: 14 Oct 2014   
+C 2  Project Description: SEAM Phase I Interpretation Challenge                 
+C 3  SEGY Data Format: IBM Real                            XY Units: Meters     
+C 4  Data Description: 2793 Full Azimuth Shot Records with Free Surface         
+C 5  Data Type: RTM Migration with Perturbed Vp and Noise in depth   Units: m   
+C 6             Sparse collection of 2D offset gathers in depth                 
+C 7                                                                             
+C 8  Projection: UTM Zone 16                Spheroid: WGS84                     
+C 9  Geodetic Datum: WGS84                  Central Meridian: 87 degrees W      
+C10  Grid Origin XY: 401,674.66E 3,097,605.23N   Scale Factor: .9996            
+C11  Grid Origin Lat Long: 28:00:00N  88:00:00W                                 
+C12                                                                             
+C13  Corner     X        Y     Iline  Xline   Given in Local Coordinates     K  
+C14    1       2940    24000   1589   5801                                      
+C15    2      31740    24000   7349   5801    Number of gathers: 33             
+C16                                                                             
+C17  Distance between gather X locations:  900 meters                           
+C18                                                                             
+C19  Inline bin size:      5 m               Max depth:          15000 m        
+C20  Crossline bin size:   5 m               Sample interval:    20 m           
+C21  First Sample:         0 ms              Samples/trace:      751            
+C22  Offsets: 0 - 11600 m  Increment: 400 m  Number of offsets:  30             
+C23                                                                             
+C24  Polarity: +RC peak                      Phase: Zero                        
+C25  Datum: Sea Level                                                           
+C26                                                                             
+C27  HEADER NAME       POSITION   LENGTH                                        
+C28  CDPX                181        4I                                          
+C29  CDPY                185        4I                                          
+C30  INLINE              189        4I                                          
+C31  CROSSLINE           193        4I                                          
+C32                                                                             
+C33  PROCESSING FLOW:                                                           
+C34     Designature                                                             
+C35     RTM with perturbed Vp                                                   
+C36                                                                             
+C37                                                                             
+C38                                                                             
+C39  SEGY REV1                                                                  
+C40  END TEXTUAL HEADER                                                         

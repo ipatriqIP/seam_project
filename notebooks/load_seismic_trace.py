@@ -13,8 +13,8 @@ import matplotlib.pyplot as plt
 
 
 # Chemin vers ton fichier SEGY (on commence par le plus petit)
-filename = "data/raw/SEAM_Interpretation_Challenge_1_2DSparseGathers_Depth.sgy"
-
+# filename = "data/raw/SEAM_Interpretation_Challenge_1_2DSparseGathers_Depth.sgy"
+filename = "/Users/patrickilunga/seam_project/data/raw/SEAM_Interpretation_Challenge_1_2DSparseGathers_Depth.sgy"
 
 # Ouvre le fichier en mode lecture
 with segyio.open(filename, "r", ignore_geometry=True) as f:
@@ -36,3 +36,9 @@ with segyio.open(filename, "r", ignore_geometry=True) as f:
     # Sauvegarde la figure
     plt.savefig("results/example_seismic_trace.png")  
     plt.show()
+    
+
+# Ouvre le fichier en mode lecture
+with segyio.open(filename, "r", ignore_geometry=True) as f:
+    # Lis la première trace (index 0)
+    trace2 = f.trace.raw[:5]
