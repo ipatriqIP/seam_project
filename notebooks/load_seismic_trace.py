@@ -34,7 +34,7 @@ with segyio.open(filename, "r", ignore_geometry=True) as f:
     plt.grid(True)
     plt.tight_layout()
     # Sauvegarde la figure
-    plt.savefig("results/example_seismic_trace.png")  
+    # plt.savefig("results/example_seismic_trace.png")  
     plt.show()
     
 
