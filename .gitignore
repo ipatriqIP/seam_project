@@ -11,8 +11,6 @@
 /data/processed/*.csv
 /data/processed/*.parquet
 
-/results/*.csv
-
 # Jupyter Notebooks
 .ipynb_checkpoints/
 *.ipynb.v*
@@ -45,6 +43,7 @@ Thumbs.db
 /results/*.png
 /results/*.jpg
 /results/*.vtk
+/results/*.csv
 
 # Documentation générée
 /docs/_build/
