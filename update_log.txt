@@ -1,0 +1,518 @@
+warning: could not open directory 'Music/Music/': Operation not permitted
+warning: could not open directory 'Pictures/Photos Library.photoslibrary/': Operation not permitted
+warning: could not open directory 'Desktop/': Operation not permitted
+warning: could not open directory 'Library/Application Support/MobileSync/': Operation not permitted
+warning: could not open directory 'Library/Application Support/CallHistoryTransactions/': Operation not permitted
+warning: could not open directory 'Library/Application Support/CloudDocs/': Operation not permitted
+warning: could not open directory 'Library/Application Support/com.apple.sharedfilelist/': Operation not permitted
+warning: could not open directory 'Library/Application Support/Knowledge/': Operation not permitted
+warning: could not open directory 'Library/Application Support/com.apple.TCC/': Operation not permitted
+warning: could not open directory 'Library/Application Support/FileProvider/': Operation not permitted
+warning: could not open directory 'Library/Application Support/AddressBook/': Operation not permitted
+warning: could not open directory 'Library/Application Support/FaceTime/': Operation not permitted
+warning: could not open directory 'Library/Application Support/DifferentialPrivacy/': Operation not permitted
+warning: could not open directory 'Library/Application Support/com.apple.avfoundation/Frecents/': Operation not permitted
+warning: could not open directory 'Library/Application Support/CallHistoryDB/': Operation not permitted
+warning: could not open directory 'Library/Assistant/SiriVocabulary/': Operation not permitted
+warning: could not open directory 'Library/Daemon Containers/': Operation not permitted
+warning: could not open directory 'Library/Autosave Information/': Operation not permitted
+warning: could not open directory 'Library/IdentityServices/': Operation not permitted
+warning: could not open directory 'Library/CloudStorage/OneDrive-Personnel/': Operation not permitted
+warning: could not open directory 'Library/Calendars/': Operation not permitted
+warning: could not open directory 'Library/Messages/': Operation not permitted
+warning: could not open directory 'Library/HomeKit/': Operation not permitted
+warning: could not open directory 'Library/Sharing/': Operation not permitted
+warning: could not open directory 'Library/com.apple.aiml.instrumentation/': Operation not permitted
+warning: could not open directory 'Library/Mail/': Operation not permitted
+warning: could not open directory 'Library/Trial/': Operation not permitted
+warning: could not open directory 'Library/AppleMediaServices/': Operation not permitted
+warning: could not open directory 'Library/DuetExpertCenter/': Operation not permitted
+warning: could not open directory 'Library/Accounts/': Operation not permitted
+warning: could not open directory 'Library/Safari/': Operation not permitted
+warning: could not open directory 'Library/Biome/': Operation not permitted
+warning: could not open directory 'Library/IntelligencePlatform/': Operation not permitted
+warning: could not open directory 'Library/Shortcuts/': Operation not permitted
+warning: could not open directory 'Library/Mobile Documents/': Operation not permitted
+warning: could not open directory 'Library/Suggestions/': Operation not permitted
+warning: could not open directory 'Library/Weather/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.stocks-news/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.photolibraryd.private/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/UBF8T346G9.com.microsoft.oneauth/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.net.whatsapp.WhatsAppSMB.shared/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.siri.inference/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/UBF8T346G9.OfficeOsfWebHost/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.swtransparency/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.coreservices.useractivityd/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/T9W862P4D2.org.geogebra6.mac/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.accessibility.voicebanking/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.siri.referenceResolution/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.stocks/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.usernoted/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.VoiceMemos.shared/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/.SiriTodayViewExtension/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.secure-control-center-preferences/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.chronod/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.net.whatsapp.family/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/com.apple.MailPersonaStorage/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.private.translation/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.appstoreagent/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.portrait.BackgroundReplacement/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.amsondevicestoraged/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.SiriTTS/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/UBF8T346G9.OneDriveStandaloneSuite/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.iBooks/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.notes.import/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/UBF8T346G9.Kfm/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.calendar/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/UBF8T346G9.OfficeExcelWidget/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.docker/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/UBF8T346G9.OneDriveSyncClientSuite/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.ip.redirects/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.siri.userfeedbacklearning/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.gamecenter/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.tips/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.dash.ienrufree/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/UBF8T346G9.Office/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.tv.sharedcontainer/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.spotlight/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.studentd/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.ManagedSettings/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/UBF8T346G9.OfficeWordWidget/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.sharingd/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.printtool/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.news/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.net.whatsapp.WhatsApp.shared/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/UBF8T346G9.ms/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.scopedbookmarkagent/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.weather/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/com.apple.systempreferences.cache/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.feedbacklogger/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.readdle.shared/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.siri.remembers/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.notes/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/UBF8T346G9.OfficePPTWidget/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/UBF8T346G9.OfficeOneDriveSyncIntegration/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/243LU875E5.groups.com.apple.podcasts/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.UserNotifications/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.tipsnext/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.transparency/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.facebook.family/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.reminders/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.mail/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/com.apple.bird/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.DeviceActivity/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.net.whatsapp.WhatsApp.private/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/com.apple.Home.group/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.iCloudDrive/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.is.workflow.my.app/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.energykit/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/com.apple.PreviewLegacySignaturesConversion/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.replicatord/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.AppleSpell/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.mlhost/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.FamilyControls/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.PegasusConfiguration/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.is.workflow.shortcuts/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.shortcuts/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/com.apple.MessagesLegacyTransferArchive/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/UBF8T346G9.IpcD/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.CloudPhotosConfiguration/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.PressAndHold/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.freeform/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.languageassetd/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.photos.VideoConversionService/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/org.geogebra6.mac/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.iCal/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.siri.SiriPrivateLearningAnalytics.SiriUserSegmentation/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.stocks.detailintents/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.QuickTimePlayerX/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.VoiceMemos/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.mlhost.TelemetryWorker/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.ax.KonaTTSSupport.KonaSynthesizer/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Notes.LPPreviewGenerator/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.archiveutility/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.FaceTime/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.LinkPresentation.LinkSnapshotGeneratorService/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.ScreenTimeAgent/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.LighthouseBitacoraFramework.BitacoraWorker/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Home.HomeEnergyWidgets/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.mobiletimer-framework.MobileTimerIntents/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.speech.MacinTalkFramework.WardaSynthesizer.x86-64/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.weather.widget/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.photos.ImageConversionService/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.FaceTime.FaceTimeNotificationCenterService/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.systempreferences.SpotlightIndexExtension/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.calendar.CalendarIntentsExtension/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/cx.c3.theunarchiver/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.siri.ODDIPoirotMetricsExtension/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.quicklook.QuickLookUIService/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.poirot.MessagesAnalyticsWorker/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.iCal.CalendarWidgetExtension/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.contacts.donation-agent/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.photolibraryd/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.wallpaper.extension.image/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.siri.media-indexer/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.dp.PrivateFederatedLearning.DPMLRuntimePlugin/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.sharing.ShareSheetUI/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.readdle.PDFExpert-Mac.Widgets/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.StorageManagement.MessagesHelper/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.microsoft.OneDrive-mac/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.ExtensionsSettings.LegacyPluginEnablementExtension/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.BKAgentService/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.tips.Widget/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.mediastream.mstreamd/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.LookupViewService/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.tonelibraryd/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Maps/Data/Maps/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.AMPDeviceDiscoveryAgent/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.systempreferences.AppleIDSettings/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.SafariPlatformSupport.Helper/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.microsoft.OneDriveLauncher/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Passwords/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.podcasts.MacPodcastsStorageExtension/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Home/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Safari/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Keyboard-Settings.extension/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.wallpaper.agent/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.IOUIAgent/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.CloudDocsDaemon.StorageManagement/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.microsoft.Powerpoint/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Safari.CacheDeleteExtension/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.reminders.WidgetExtension/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.as.ai.chatbot.grok/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.iBooksX.BooksThumbnail/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.iBooksX/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.lighthouse.SiriCoreMetricsWorker/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.wallpaper.extension.video/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.aiml.RepackagingWorker/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.microsoft.OneDrive-mac.FileProvider/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.AMPArtworkAgent/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.FollowUpSettings.FollowUpSettingsExtension/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/net.whatsapp.WhatsApp.WAAppKitBridgeService/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.iBooksX.DiskSpaceEfficiency/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.messages.StorageManagementExtension/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.clock.WorldClockWidget/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.reminders.macOSIntentsExtension/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.findmy.FindMyWidgetPeople/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.microsoft.Word/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.PeopleViewService.PeopleWidget-macOS/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.inputmethod.EmojiFunctionRowItem/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.ScreenTimeWidgetApplication.ScreenTimeWidgetExtension/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.STMExtension.OtherUsers/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.ExtensionsSettings.DefaultExtensionEnablement/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.PeopleViewService.SelectPerson-iOS/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.microsoft.onenote.mac/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.SiriMetrics.SiriTurnRestatementExtension/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.speech.MacinTalkFramework.MacinTalkAUSP/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.QuickLookThumbnailing.extension.ThumbnailExtension-macOS/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.photoanalysisd/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.amp.devicesui/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Coverage-Settings.extension/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Photos.PhotosReliveWidget/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.notificationcenterui/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.MediaExtensions-Settings/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.CloudDocs.MobileDocumentsFileProvider/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.huawei.hisuite/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.TV.TVStorageExtension/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Sound-Settings.SoundIntents/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.findmy.FindMyWidgetIntentsPeople/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.SystemExtensions-Settings.extension/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.iCloudQuota.ICQFollowup/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.mail/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.MailShortcutsExtension/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.AMSUIPaymentViewService/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.DataDetectorsLocalSources/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Photos/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.FamilyControlsAgent/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.siri.metrics.ExperimentationExtension/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.MobileSMS/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.PlatformSSOToken/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.CalendarWeatherKitService/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Music.MusicCacheExtension/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.microsoft.Outlook.CalendarWidget/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.StorageManagement.CloudStorageHelper/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.calendar.CalendarFocusConfigurationExtension/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.ScreenSaver.Computer-Name/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.findmy.FindMyWidgetIntentsItems/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.LoginUserService/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.microsoft.Excel.widgetextension/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Photos.PhotosReliveWidgetIntents/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.AppStore/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.QuickLookUIFramework.QLPreviewGenerationExtension/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.dp.PrivateFederatedLearning.DPMLRuntimePluginNonDnU/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Siri/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.AppleMediaServicesUI.UtilityExtension/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.VoiceMemos.VoiceMemosSettingsWidget/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Notes/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.shortcuts.ShortcutsWidget/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.siri.metrics.AssetMetricsExtension/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.mail.SpotlightIndexExtension/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.STMExtension.Trash/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.MediaMLPluginApp.MediaMLExtension/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Batteries.BatteriesAvocadoWidgetExtension/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.MailCacheDelete/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.STMExtension.iOSFiles/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.STMExtension.Applications/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.mlhost.CloudWorker/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.siri.metrics.DevicePropertiesExtension/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.helpviewer/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.ManagedSettings.ManagedSettingsMacOSExtension/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.TextEdit/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.CryptoTokenKit.pivtoken/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.windowmanager.ShowDesktopEducation/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.fskit.msdos/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Music.MusicStorageExtension/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Desktop-Settings.extension/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Photos.StorageManagementExtension/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.siri.SiriSuggestionsLightHousePlugin/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.geod/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.iCal.FaceTimeExtension/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.news/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.AppleAccountUI.AAUIFollowUpExtension/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.TV.TVCacheExtension/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.speech.SpeechSynthesisServerXPC/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.CaptiveNetworkAssistant/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.DifferentialPrivacy.TelemetryAggregator/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/dash.ienrufree.WidgetActions/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.STMExtension.Mail/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.texttospeech.SiriAUSP/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.STMExtension.Developer/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.routined/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.findmy.FindMyWidgetItems/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/dash.ienrufree/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.microsoft.Excel/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Screen-Time-Settings.extension/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.SiriUI.SiriUISetupXPC/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.corerecents.recentsd/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.STMExtension.GarageBand/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.stocks.widget/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.ScreenTimeWidgetApplication.ScreenTimeWidgetIntentsExtension/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Notes.WidgetExtension/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.systempreferences.GeneralSettings/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.weather/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Safari.SafariWidgetExtension/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.nexbot.app/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.ContinuityCaptureOnboardingUI/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.LinkedNotesUIService/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.microsoft.Powerpoint.widgetextension/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Preview/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.UsageTrackingAgent/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Passwords-Settings.extension/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Home.HomeWidget/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Home.HomeWidget.Interactive/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.microsoft.Word.widgetextension/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.michallangmajer.HelloAI/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.biome.BiomeStreams.BiomeLighthousePlugin/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.CoreRoutine.helperservice/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/net.whatsapp.WhatsApp.ServiceExtension/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.siri.metrics.MetricsExtension/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.CryptoTokenKit.ctkcard.ctkcardtoken/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.stocks/': Operation not permitted
+warning: could not open directory 'Library/Containers/net.whatsapp.WhatsApp/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.siri.ODDI.MetricsExtension/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.microsoft.errorreporting/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.lighthouse.PnROnDeviceWorker/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Safari.SafariLinkExtension/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Internet-Accounts-Settings.extension/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.quicklook.ui.helper/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.AuthKitUI.AKFollowUpServerUIExtension/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.share.Mail.compose/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.AvatarUI.AvatarPickerMemojiPicker/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.SiriNCService/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Notes.IntentsExtension/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.ax.MauiTTSSupport.MauiAUSP/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.weather.WeatherIntents/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.AirPlayUIAgent/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.AppleMediaServicesUI.EngagementViewExtension/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.fskit.ModuleEnablement/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.fskit.exfat/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.lighthouse.BiomeLibraryEventUploader/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.voicebankingd/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.systempreferences/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.CloudDocs.iCloudDriveFileProvider/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.parsec.SafariAssistantWorker/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.podcasts.widget/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.microsoft.Outlook/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.mediaanalysisd/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.OSDUIHelper/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.ScreenContinuity/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.CalendarWidget.IntentsExtension/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.MobileSMS.MessagesActionExtension/Data/': Operation not permitted
+warning: could not open directory 'Library/Containers/com.apple.Family/Data/': Operation not permitted
+warning: could not open directory 'Library/ContainerManager/': Operation not permitted
+warning: could not open directory 'Library/PersonalizationPortrait/': Operation not permitted
+warning: could not open directory 'Library/Photos/': Operation not permitted
+warning: could not open directory 'Library/Metadata/CoreSpotlight/': Operation not permitted
+warning: could not open directory 'Library/Metadata/com.apple.IntelligentSuggestions/': Operation not permitted
+warning: could not open directory 'Library/Reminders/': Operation not permitted
+warning: could not open directory 'Library/Cookies/': Operation not permitted
+warning: could not open directory 'Library/CoreFollowUp/': Operation not permitted
+warning: could not open directory 'Library/StatusKit/': Operation not permitted
+warning: could not open directory 'Library/DoNotDisturb/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.Music/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.HomeKit/': Operation not permitted
+warning: could not open directory 'Library/Caches/CloudKit/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.Safari/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.findmy.fmfcore/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.containermanagerd/': Operation not permitted
+warning: could not open directory 'Library/Caches/FamilyCircle/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.homed/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.findmy.fmipcore/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.TV/': Operation not permitted
+warning: could not open directory 'Library/Caches/com.apple.ap.adprivacyd/': Operation not permitted
+warning: could not open directory 'Movies/TV/': Operation not permitted
+warning: could not open directory '.Trash/': Operation not permitted
+warning: could not open directory 'Documents/': Operation not permitted
+warning: could not open directory 'Downloads/': Operation not permitted
+warning: adding embedded git repository: Analyse_des_series_temporelles_avec_R
+hint: You've added another git repository inside your current repository.
+hint: Clones of the outer repository will not contain the contents of
+hint: the embedded repository and will not know how to obtain it.
+hint: If you meant to add a submodule, use:
+hint: 
+hint: 	git submodule add <url> Analyse_des_series_temporelles_avec_R
+hint: 
+hint: If you added this path by mistake, you can remove it from the
+hint: index with:
+hint: 
+hint: 	git rm --cached Analyse_des_series_temporelles_avec_R
+hint: 
+hint: See "git help submodule" for more information.
+fatal: unable to stat 'Library/Application Support/Google/Chrome/Default/Local Storage/leveldb/006128.log': No such file or directory
+Des modifications détectées – commit en cours...
+warning: could not open directory 'Music/Music/': Operation not permitted
+warning: could not open directory 'Desktop/': Operation not permitted
+warning: could not open directory '.Trash/': Operation not permitted
+warning: could not open directory 'Documents/': Operation not permitted
+warning: could not open directory 'Downloads/': Operation not permitted
+On branch main
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	deleted:    iperform/.Rbuildignore
+	deleted:    iperform/.gitignore
+	deleted:    iperform/DESCRIPTION
+	deleted:    iperform/NAMESPACE
+	deleted:    iperform/NEWS.md
+	deleted:    iperform/R/d_day.R
+	deleted:    iperform/R/data_doc-voix_tel_mob.R
+	deleted:    iperform/R/forecast_m.R
+	deleted:    iperform/R/full_m.R
+	deleted:    iperform/R/m_mean.R
+	deleted:    iperform/R/mtd.R
+	deleted:    iperform/R/overview.R
+	deleted:    iperform/R/wtd.R
+	deleted:    iperform/R/ytd.R
+	deleted:    iperform/README.Rmd
+	deleted:    iperform/README.md
+	deleted:    iperform/data-raw/kpi_voix_op_tel_mob.R
+	deleted:    iperform/data/voix_tel_mob.rda
+	deleted:    iperform/extdata/kpi_voix_op_tel_mob.csv
+	deleted:    iperform/iperfom
+	deleted:    iperform/man/d_day.Rd
+	deleted:    iperform/man/figures/README-pressure-1.png
+	deleted:    iperform/man/figures/logo.png
+	deleted:    iperform/man/forecast_m.Rd
+	deleted:    iperform/man/full_m.Rd
+	deleted:    iperform/man/m_mean.Rd
+	deleted:    iperform/man/mtd.Rd
+	deleted:    iperform/man/overview.Rd
+	deleted:    iperform/man/voix_tel_mob.Rd
+	deleted:    iperform/man/wtd.Rd
+	deleted:    iperform/man/ytd.Rd
+	deleted:    iperform/tests/testthat.R
+	deleted:    iperform/tests/testthat/test-d_day.R
+	deleted:    iperform/tests/testthat/test-forecast_m.R
+	deleted:    iperform/tests/testthat/test-full_m.R
+	deleted:    iperform/tests/testthat/test-m_mean.R
+	deleted:    iperform/tests/testthat/test-mtd.R
+	deleted:    iperform/tests/testthat/test-overview.R
+	deleted:    iperform/tests/testthat/test-wtd.R
+	deleted:    iperform/tests/testthat/test-ytd.R
+	deleted:    iperform/vignettes/.gitignore
+	deleted:    iperform/vignettes/iperform.Rmd
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.CFUserTextEncoding
+	.DS_Store
+	.Protege/
+	.RDataTmp
+	.Renviron
+	.anaconda/
+	.azuredatastudio/
+	.bash_history
+	.bash_profile
+	.cache/
+	.conda/
+	.condarc
+	.config/
+	.continuum/
+	.docker/
+	.gitconfig
+	.gitignore
+	.gitlab-runner/
+	.ipynb_checkpoints/
+	.ipython/
+	.jupyter/
+	.lesshst
+	.local/
+	.matplotlib/
+	.pdfbox.cache
+	.profile
+	.python_history
+	.scala_history
+	.spyder-py3/
+	.ssh/
+	.tcshrc
+	.u2net/
+	.viminfo
+	.xonshrc
+	.yandex/
+	.zprofile
+	.zsh_history
+	.zsh_sessions/
+	.zshrc
+	Analyse_des_series_temporelles_avec_R/
+	Applications/
+	FAQ+SEJOUR+FINAL.pdf
+	Flask/
+	Library/
+	Local Sites/
+	Movies/
+	Music/
+	Pictures/
+	Processed_Well_Data/
+	Public/
+	PyCharmMiscProject/
+	Sites/
+	Zotero/
+	acled_project/
+	airflow/
+	anaconda_projects/
+	derby.log
+	dwhelper/
+	gitlab-runner.err.log
+	gitlab-runner.out.log
+	iperform_0.0.2.tar.gz
+	iperform_0.0.3.tar.gz
+	ipgeodata/
+	oil_project/
+	opt/
+	package_iperform/
+	pico.save
+	pipeline_petrole.png
+	porosite.csv
+	r_project/
+	resistivite_hor.csv
+	seam_project/
+	sige_epsp.db
+	site-ipgeodata/
+	spark/
+	sqlite/
+	web_scraping/
+
+no changes added to commit (use "git add" and/or "git commit -a")
+error: src refspec master does not match any
+error: failed to push some refs to 'https://gitlab.com/RLesur/iperform.git'
+Mise à jour poussée sur GitHub
